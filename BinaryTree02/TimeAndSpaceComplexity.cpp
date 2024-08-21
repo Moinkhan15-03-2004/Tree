@@ -1,0 +1,3 @@
+// T.C = O(n) [where 'n  is the no of nodes]
+// S.C = O(levels+1) O(n+2) equal to O(n)
+// in balace tree O(logn) because each level increase 2 raised to the power 1 , 2,3 ... 
